@@ -26,11 +26,17 @@ Official PyTorch implementation of DeshuffleGANs:
 python train_deshufflegan.py
 ```
 ## Evaluation Results
-![eval table] (figs/eval.png)
+![eval table](figs/eval.png)
 
 ## Generation Results
+
+### LSUN-Bedroom
 ![bedroom](figs/bedroom_deshuffle.png)
+
+### LSUN-Church
 ![church](figs/church_deshuffle.png)
+
+### ImageNet
 ![imagenet](figs/imagenet.png)
 
 ## Comparison (Deshuffle vs Rotation)
