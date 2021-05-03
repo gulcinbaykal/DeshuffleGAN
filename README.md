@@ -6,7 +6,7 @@ Official PyTorch implementation of DeshuffleGANs:
 
 [Exploring DeshuffleGANs in Self-Supervised Generative Adversarial Networks](https://arxiv.org/abs/2011.01730)
 
-![architecture](main_fig.png)
+![architecture](figs/main_fig.png)
 
 ## Prerequisites
 - Python 3.7
